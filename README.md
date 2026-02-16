@@ -19,8 +19,8 @@ The system embeds encrypted text into image pixels while preserving image qualit
 - NumPy
 
 ## ▶ How to Run
-1. Install dependencies:
-   pip install opencv-python numpy
+1. pip install opencv-python
+   pip install numpy
 2. Run the program:
    python image_steganography.py
 3. Provide the input image and secret message when prompted.
